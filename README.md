@@ -4,7 +4,6 @@
 📧 mishti.shah@somaiya.edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/mishti-shah-250811310/)
 
----
 
 ## 🎓 Education
 
@@ -17,7 +16,6 @@ Wilson College *(2022 – 2024)*
 **ICSE**  
 Queen Mary School *(2022)*  
 
----
 
 ## 🚀 Projects
 
@@ -30,7 +28,6 @@ Queen Mary School *(2022)*
 - Designed robust cart and checkout workflows  
 - Enabled real-time stock management  
 
----
 
 ### 🤖 PDF-Based Intelligent Question Answering System
 **Tech Stack:** Python, Streamlit, LangChain, FAISS, Gemini API  
@@ -40,7 +37,6 @@ Queen Mary School *(2022)*
 - Used semantic embeddings and FAISS for efficient retrieval  
 - Developed an interactive interface using Streamlit  
 
----
 
 ## 🧠 Training Experience
 
@@ -50,7 +46,6 @@ Queen Mary School *(2022)*
 - Designed agentic AI workflows with autonomous decision-making  
 - Integrated APIs and applied prompt engineering  
 
----
 
 ## 📜 Certifications
 
@@ -63,7 +58,6 @@ Queen Mary School *(2022)*
 - **Augmented Reality – BharatXR**  
   - Created AR/VR Snapchat lenses  
 
----
 
 ## 🛠️ Technical Skills
 
@@ -90,13 +84,11 @@ Queen Mary School *(2022)*
 - Requirement analysis  
 - Communication  
 
----
 
 ## 🌟 About Me
 
 Computer Engineering student passionate about AI, web development, and building impactful tech solutions. Interested in multilingual systems, accessibility, and intelligent automation.
 
----
 
 ## 📫 Contact
 
